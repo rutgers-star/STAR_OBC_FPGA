@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.1 (64-bit)
+# SW Build 3865809 on Sun May  7 15:04:56 MDT 2023
+# IP Build 3864474 on Sun May  7 20:36:21 MDT 2023
+# SharedData Build 3865790 on Sun May 07 13:33:03 MDT 2023
+# Start of session at: Thu Aug 31 14:29:36 2023
+# Process ID: 331240
+# Current directory: /data/Downloads/Vivado/2023.1/project_2/project_2.runs/design_1_processing_system7_0_0_synth_1
+# Command line: vivado -log design_1_processing_system7_0_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source design_1_processing_system7_0_0.tcl
+# Log file: /data/Downloads/Vivado/2023.1/project_2/project_2.runs/design_1_processing_system7_0_0_synth_1/design_1_processing_system7_0_0.vds
+# Journal file: /data/Downloads/Vivado/2023.1/project_2/project_2.runs/design_1_processing_system7_0_0_synth_1/vivado.jou
+# Running On: adil-ms7c80, OS: Linux, CPU Frequency: 4767.612 MHz, CPU Physical cores: 8, Host memory: 33540 MB
+#-----------------------------------------------------------
+source design_1_processing_system7_0_0.tcl -notrace
